@@ -21,7 +21,7 @@ A simple group expense tracking application built with Next.js, TypeScript, and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/group-expense-tracker.git
+   git clone https://github.com/usama7365/Group-Expense-Tracker.git
    cd group-expense-tracker
    ```
 2. Copy `.env.example` to `.env` and add your Supabase credentials.
