@@ -52,9 +52,6 @@ supabase/types
 .next/trace
 .next/cache
 
-# Ignore Tailwind config build artifacts (if applicable)
-tailwind.config.js
-tailwind.config.ts
 
 # Ignore local VS Code settings (optional)
 .vscode/
